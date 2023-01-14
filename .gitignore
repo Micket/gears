@@ -1,0 +1,4 @@
+*.o
+eglgears
+glfwgears
+sdl2gears
